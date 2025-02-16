@@ -1,6 +1,5 @@
 
 //Modules export files
-
 export function sayHello(name: string, age: number): void {
     console.log(`Hello ${name} Your age is ${age}!`);
   }
